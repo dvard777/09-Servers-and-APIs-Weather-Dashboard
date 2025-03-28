@@ -15,7 +15,8 @@ app.use(express.urlencoded({ extended: true }));
 // Serve static files from the client build folder
 // (Assuming your built client files are in "client/dist")
 const __dirname = path.resolve();
-app.use(express.static(path.join(__dirname, '../client/dist')));
+app.use(express.static(path.join(__dirname, 'client/dist')));
+
 
 
 // Connect API and HTML routes
