@@ -3,7 +3,7 @@ import { v4 as uuidv4 } from 'uuid';
 import path from 'path';
 
 // Adjust the path if needed based on your folder structure
-const dbPath = path.resolve('server/db/db.json');
+const dbPath = path.resolve('db/db.json');
 
 class HistoryService {
   async getHistory() {

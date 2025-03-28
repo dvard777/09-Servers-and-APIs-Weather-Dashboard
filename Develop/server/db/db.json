@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "Tokyo",
+    "id": "4ace7639-dc7d-4aee-adad-6fb7ec699c54"
+  },
+  {
+    "name": "Champlin",
+    "id": "1043b89f-1705-46e7-bcd7-c3788871f0b7"
+  },
+  {
+    "name": "tampa",
+    "id": "2a76c0dc-1075-49a4-a52c-995affe2ec0b"
+  }
+]
